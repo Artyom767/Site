@@ -1,0 +1,386 @@
+.bodysite{
+
+  margin: 0;
+}
+.parent{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 700px;
+}
+.ba1{
+    background: rgb(198, 173, 143);
+}
+.ba2 {
+  background-image: url(img/mis1.jpeg);
+  background-position: right;
+  background-size: cover;
+
+}
+.bot{
+width: 175px;
+height: 43px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: -10px;
+background-color: rgb(66, 86, 100);
+color: aliceblue;
+font-size: 13px;
+text-transform: uppercase;
+letter-spacing: 4px;
+}
+.ba1 > img{
+  width: 50%;
+  display: block;
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Gr{
+  text-align: center;
+  color: aliceblue;
+  font-size: 25px;
+  margin-top: 15%;
+  letter-spacing: 2px;
+}
+.Be{
+  margin-top: -10px;
+  text-align: center;
+  color: aliceblue;
+  font-size: 70px;
+  letter-spacing: 2px;
+}
+.ej2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr ;
+  grid-template-rows: 500px;
+  background-color: rgb(66, 86, 100);
+}
+.misicon{
+ 
+ margin-left: 120px;
+ margin-top: 70px;
+
+}
+.dzukicon{
+  margin-top: 70px;
+ margin-left: 40px;
+}
+.salaticon{
+  margin-top: 70px;
+  margin-left: -30px;
+}
+.youtxt{
+  height: 40px;
+  width: 360px;
+  font-size: 20px;
+  color: aliceblue;
+  margin-left: -100px;
+  margin-top: 100px;
+  text-align: right;
+}
+.tex{
+ 
+  color: aliceblue;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+.tex1{
+  color: rgb(198, 173, 143);
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+.AU{
+  color: aliceblue;
+  font-size: 50px;
+  text-align: right
+  
+}
+
+.butt2{
+  width: 220px;
+  height: 50px;
+  background-color: antiquewhite;
+  letter-spacing: 2px;
+}
+.ej3{
+  display: grid;
+ grid-template-columns: 1fr;
+  background-color: #f6f4f2;
+  height: 500px;
+  margin: 0px auto;
+  
+}
+ .ej3div{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 360px;
+  margin-right: 360px;
+  grid-column-gap: 25px;
+
+ }
+
+
+.mater{
+  width: 370px;
+  height: 340px;
+  background-image: url(img/mater.jpeg);
+  background-size: cover;
+  background-position: center;
+  margin-top: -82px;
+  margin-bottom: 40px;
+
+
+}
+.ej3matertext{
+  color: rgb(83, 88, 92);
+  font-size: 20px;
+  margin-top: 400px;
+}
+.silyotka{
+  width: 370px;
+  height: 340px;
+  background-image: url(img/silyotkalimonov.jpeg);
+  background-size: cover;
+  background-position: center;
+ 
+
+}
+.ej3silyotkatext{
+  color: rgb(83, 88, 92);
+  font-size: 20px;
+  margin-top: 200px;
+ height: 400px;
+ width: 400px;
+ 
+}
+.ej4{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 600px;
+background-color: rgb(198, 173, 143);
+}
+.ej4div{
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 840px;
+}
+.ej4textdiv{
+  height: 5000px;
+  width: 660px;
+  font-size: 20px;
+  color: aliceblue;
+  margin-left: 400px;
+  margin-top: 120px;
+  letter-spacing: 1px;
+}
+.ej4but{
+  background-color: rgb(66, 86, 100);
+  color: aliceblue;
+  height: 50px;
+  width: 150px;
+  font-size: medium;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.ej4nkar{
+  background-image: url(../tampelate/img/mistarorinak.jpg);
+  height: 550px;
+  width: 450px;
+background-position: center;
+background-size: cover;
+margin-top: -100px;
+margin-left: 150px;
+  
+}
+.ej5{
+  background-image: url(img/apse.jpg);
+  background-size: cover;
+  background-position: bottom;
+  grid-template-rows: 100px; 
+  display: grid;
+  grid-template-columns: 1fr ;
+  grid-template-rows: 500px;
+}
+.ej6{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 600px;
+  background-color:#f6f4f2;
+  grid-column-gap: 25px;
+
+}
+.ej6title{
+  width: 250px;
+  height: 100px;
+  text-align: left;
+  font-size: 55px;
+
+}
+.ej6div1{
+  text-align: right;
+  margin-right: 50px;
+  font-size: 0.875rem;
+  
+  margin-left: 400px;
+  margin-top: 100px;
+}
+.ej6div2{
+
+  background-image: url(../tampelate/img/moxito.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 410px;
+  width: 360px;
+ margin-top: 30px;
+}
+.ej6div3{
+  background-image: url(../tampelate/img/cofemarshmelo.jpg);
+  background-position: left;
+  background-size: cover;
+  height: 410px;
+  width: 364px;
+ margin-right: 250px;
+  margin-top: -70px;
+}
+.cofetext{
+  color: rgb(83, 88, 92);
+  margin-top: 430px;
+  font-size: 20px;
+}
+.vam{
+  height: 50px;
+  width: 250px;
+  color: rgb(254, 254, 255);
+  background-color: rgb(66, 86, 100);
+  font-size: 13px;
+  letter-spacing: 3px;
+  margin-right: 200px;
+}
+.ej7{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr ;
+  grid-template-rows: 300px 300px;
+
+ 
+}
+.ej7div1{
+  background-image: url(../tampelate/img/sushi.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ej7div2{
+  background-image: url(../tampelate/img/dzkovsalat.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ej7div3{
+  background-image: url(../tampelate/img/ktrtacmis.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ej7div4{
+  background-image: url(../tampelate/img/mishamemuqov.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ej7div5{
+  background-image: url(../tampelate/img/ponchik.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ej7div6{
+  background-image: url(../tampelate/img/jaritaracmis.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.ej8{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 500px;
+  background-color: rgb(66, 86, 100);
+ 
+}
+.ej8div{
+  width: 250px;
+margin-left:auto;
+margin-right: auto;
+}
+.ej8 img{
+  width: 150px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ej8title{
+  color: aliceblue;
+  font-size: 50px;
+  margin-left:auto;
+margin-right: auto;
+  
+}
+.ej8text{
+  color: aliceblue;
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+@media only screen and (max-width: 960px) {
+  .ej2{
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+  }
+  .misicon{
+   
+    margin-left: 200px;
+  }
+  .dzukicon{
+   margin-left: 130px;
+  }
+  .salaticon{
+    margin-left: 200px;
+  }
+  .youtxt{
+    margin-left: 40px;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .parent{
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: "ba1" "ba2";
+  }
+  .bot{
+margin-bottom: 50px;
+  }
+} 
+@media screen {
+  
+}
+@media only screen and (max-width: 770px) { 
+  .ej2{
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    height: 2000px;
+  }
+
+  .misicon{
+   
+    margin-left: 200px;
+    margin-left: 43%;
+  }
+  .dzukicon{
+    margin-top: 50px;
+    margin-left: 43%;
+  }
+  .salaticon{
+    margin-top: -30px;
+    margin-left: 43%;
+  }
+  .youtxt{
+    margin-top: -50px;
+    margin-left: 25%;
+  }
+}
